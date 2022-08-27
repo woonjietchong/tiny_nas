@@ -1,4 +1,4 @@
-20342210988173429
+20337234053058834
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -50224,13 +50224,6 @@ SMD SMT ceramic resonator filter filter hand-soldering
 0
 3
 3
-DM3AT-SF-PEJM5
-HRS_DM3AT-SF-PEJM5
-Micro SD card holder with push-to-eject feature.
-
-0
-14
-14
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
@@ -52989,13 +52982,6 @@ Fuse Fuseholder TR5 Littelfuse/Wickmann No. 460 No560
 0
 2
 2
-H1102NLT
-XFMR_H1102NLT
-
-
-0
-16
-16
 HR911105A
 HANRUN_HR911105A
 
@@ -57686,7 +57672,7 @@ Yellow 5381 Series LED
 0
 2
 2
-MAX1823BEUB_T
+MAX1823BEUB
 SOP50P490X110-10N
 
 
@@ -85231,13 +85217,6 @@ igbt diode module
 0
 25
 25
-USB3320C-EZK-TR
-QFN50P500X500X100-33N330X330
-
-
-0
-33
-33
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins
