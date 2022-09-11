@@ -1,0 +1,5 @@
+C:/Users/ASUS/STM32CubeIDE/workspace_1.9.0/FatFs_USBDisk/Src/usbh_diskio_dma.c:65:9:USBH_initialize	0	static
+C:/Users/ASUS/STM32CubeIDE/workspace_1.9.0/FatFs_USBDisk/Src/usbh_diskio_dma.c:77:9:USBH_status	8	static
+C:/Users/ASUS/STM32CubeIDE/workspace_1.9.0/FatFs_USBDisk/Src/usbh_diskio_dma.c:100:9:USBH_read	96	static
+C:/Users/ASUS/STM32CubeIDE/workspace_1.9.0/FatFs_USBDisk/Src/usbh_diskio_dma.c:227:9:USBH_ioctl	64	static
+C:/Users/ASUS/STM32CubeIDE/workspace_1.9.0/FatFs_USBDisk/Src/usbh_diskio_dma.c:162:9:USBH_write	96	static
